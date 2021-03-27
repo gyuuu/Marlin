@@ -1499,11 +1499,11 @@
 
 // Preheat Constants
 #define PREHEAT_1_LABEL       "PLA"
-#define PREHEAT_1_TEMP_HOTEND 210
+#define PREHEAT_1_TEMP_HOTEND 220
 #define PREHEAT_1_TEMP_BED     65
 #define PREHEAT_1_FAN_SPEED   128 // Value from 0 to 255
 
-#define PREHEAT_2_LABEL       "PET-G"
+#define PREHEAT_2_LABEL       "PETG"
 #define PREHEAT_2_TEMP_HOTEND 250
 #define PREHEAT_2_TEMP_BED     85
 #define PREHEAT_2_FAN_SPEED   64 // Value from 0 to 255
